@@ -1,19 +1,19 @@
 # Supradoc
 
-> Harnessing Technology for the Benefit of Peopl
+> Harnessing Technology for the Benefit of People
 
-![License](https://img.shields.io/badge/license-Proprietary-red) ![Version](https://img.shields.io/badge/version-0.9.0-blue) 
+![License](https://img.shields.io/badge/license-Proprietary-red) ![Version](https://img.shields.io/badge/version-0.9.0-blue)
 
 Supradoc is a technology company focused on delivering innovative solutions that enhance workplace efficiency and collaboration.
 
 ## 🔗 Connect With Us
 
-- [Homepage](https://www.supradoc.com)
-- [GitHub](https://github.com/Supradoc)
-- [LinkedIn](https://www.linkedin.com/company/supradoc)
-- [Twitter](https://twitter.com/supra_doc)
-- [YouTube](https://www.youtube.com/@supra_doc)
-- [Instagram](https://www.instagram.com/supra_doc)
+- 🌐 [Homepage](https://www.supradoc.com)
+- 💻 [GitHub](https://github.com/Supradoc)
+- 💼 [LinkedIn](https://www.linkedin.com/company/supradoc)
+- 🐦 [Twitter](https://twitter.com/supra_doc)
+- 📺 [YouTube](https://www.youtube.com/@supra_doc)
+- 📸 [Instagram](https://www.instagram.com/supra_doc)
 
 ## 💻 Technologies Used
 
@@ -25,7 +25,7 @@ Supradoc is a technology company focused on delivering innovative solutions that
 
 ## 📄 License
 
-This project is licensed under the MIT License 
+This project is licensed under the MIT License
 
 ## 🌍 Location
 
