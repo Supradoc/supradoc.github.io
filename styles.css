@@ -1,0 +1,113 @@
+/* Reset and base styles */
+:root {
+  /* Color palette */
+  --color-white: #ffffff;
+  --color-bg-dark: #343434;
+  --color-bg-card: #393939;
+  --color-primary: #2a668f;
+  --color-primary-hover: #38769f;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.6;
+  color: var(--color-white);
+  background-color: var(--color-bg-dark);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "League Spartan", sans-serif;
+}
+
+/* Layout */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Header */
+header {
+  text-align: center;
+  padding: 4rem 0;
+}
+
+.logo {
+  background-image: url("https://images.squarespace-cdn.com/content/v1/672ca62c8da5f812e7c333ab/692227cf-3fec-40a5-913c-cebcb320488d/supradoc_registered_grey.png?format=1500w");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 200px;
+  width: 500px;
+  display: inline-block;
+  margin-bottom: 0.1rem;
+  filter: invert(1) brightness(2);
+}
+
+.tagline {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+/* Call to action button */
+.cta-button {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: var(--color-primary-hover);
+}
+
+/* Features section */
+.features {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.feature {
+  background: var(--color-bg-card);
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.feature h3 {
+  margin-bottom: 1rem;
+  color: var(--color-primary);
+}
+
+/* Social links */
+.social-links {
+  margin-top: 2rem;
+}
+
+.social-links a {
+  margin: 0 1rem;
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  margin-top: 2rem;
+  padding: 1rem;
+}
